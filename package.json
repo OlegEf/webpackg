@@ -1,0 +1,29 @@
+{
+  "name": "as",
+  "version": "1.0.0",
+  "main": "build.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Yefimchuck",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegEf/webpackg.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/OlegEf/webpackg/issues"
+  },
+  "homepage": "https://github.com/OlegEf/webpackg#readme",
+  "description": ""
+}
